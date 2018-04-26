@@ -10,7 +10,7 @@ public class UuidHelperTest {
     @Test
     public void testGetVarbinStringUuid() {
         String varString = UuidHelper.getVarbinUuidFormate("ee4fd61b-1e0f-424a-b194-ff62d94f1b00");
-        Assert.assertEquals("ee4fd61b1e0f424ab194ff62d94f1b00", varString);
+        Assert.assertEquals("ee4fd61b1e0f424ab194ff62d94f1b0", varString);
     }
 
     @Test
