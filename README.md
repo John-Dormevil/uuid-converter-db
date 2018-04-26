@@ -1,1 +1,3 @@
 [![](https://jitpack.io/v/John-Weetaker/uuid-converter-db.svg)](https://jitpack.io/#John-Weetaker/uuid-converter-db)
+[![Build Status](https://travis-ci.org/John-Weetaker/uuid-converter-db.svg?branch=master)](https://travis-ci.org/John-Weetaker/uuid-converter-db)
+[![Coverage Status](https://coveralls.io/repos/github/John-Weetaker/uuid-converter-db/badge.svg?branch=master)](https://coveralls.io/github/John-Weetaker/uuid-converter-db?branch=master)
